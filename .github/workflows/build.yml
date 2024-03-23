@@ -45,4 +45,4 @@ jobs:
         with:
           name: main-unsigned.ipa
           path: BilbiliAtvDemo.ipa
-          retention-days: 30
+          retention-days: 31
